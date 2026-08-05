@@ -11,8 +11,7 @@ own subfolder with a `notes.md` file.
 ```
 gcs-cert-notes/
 ├── 01-foundations-of-cybersecurity/
-│   └── module-1-welcome-to-the-world-of-cybersecurity/
-│       └── notes.md
+│   └── module-1-welcome-to-the-world-of-cybersecurity.md
 ├── 02-play-it-safe-manage-security-risks/
 ├── 03-connect-and-protect-networks-and-network-security/
 ├── 04-tools-of-the-trade-linux-and-sql/
