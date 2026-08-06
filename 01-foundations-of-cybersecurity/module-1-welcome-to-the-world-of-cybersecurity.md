@@ -67,6 +67,57 @@ support business continuity.
 
 ---
 
+## 9. Essential Skills for a Security Analyst
+
+### Transferable Skills
+Skills gained from other areas (education, past jobs, hobbies) that transfer
+into cybersecurity work:
+- **Communication** — clearly explaining risks/findings to both technical
+  and non-technical stakeholders.
+- **Collaboration** — working effectively with cross-functional teams
+  (IT, legal, management) during investigations and incident response.
+- **Analytical Thinking** — analyzing data/patterns to identify potential
+  threats.
+- **Problem-Solving** — using existing resources/tools to detect, address,
+  and resolve issues quickly.
+
+### Technical Skills
+Skills that require knowledge of specific tools and procedures:
+- **Programming Languages** — writing scripts to automate repetitive tasks
+  (e.g. Python).
+- **SIEM Tools** (Security Information and Event Management) — used to
+  identify and analyze security threats/events in real time.
+- **Computer Forensics** — collecting and investigating digital evidence
+  after a security incident to determine what happened.
+
+## 10. The Importance of Cybersecurity
+
+### 10.1 Business Continuity and Ethics
+- Effective cybersecurity minimizes downtime and disruption, keeping an
+  organization operational even after an attack — this is **business
+  continuity**.
+- Security analysts must act **ethically** — following an organization's
+  guidelines/code of ethics when handling sensitive information and
+  responding to incidents.
+
+### 10.2 Reputation and Trust
+- A security breach can seriously damage an organization's **reputation**
+  and erode **customer trust**.
+- Strong cybersecurity practices help maintain the trust of customers,
+  partners, and stakeholders.
+
+## 11. Protecting Personal Information
+
+- **Personally Identifiable Information (PII)** — any information used to
+  infer an individual's identity (e.g. name, phone number, date of birth).
+- **Sensitive Personally Identifiable Information (SPII)** — a specific
+  category of PII that falls under stricter handling guidelines (e.g. SSN,
+  medical records, financial account numbers, biometric data).
+- Protecting PII/SPII is a core responsibility of security teams, since
+  exposure of this data can lead to identity theft or fraud.
+
+---
+
 ## Key Concepts — Assignment: Spot the Phish
 
 - **Phishing tactics** (social engineering) = psychological tricks: urgency,
