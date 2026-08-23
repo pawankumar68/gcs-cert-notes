@@ -5,14 +5,11 @@ organized course-wise and module-wise as I progress.
 
 ## Structure
 
-Each course has its own numbered folder, and inside it each module has its
-own subfolder with a `notes.md` file.
-
 ```
 gcs-cert-notes/
 ├── 01-foundations-of-cybersecurity/
-│   └── module-1-welcome-to-the-world-of-cybersecurity.md
-|   └── module-2-Evolution-of-cybersecurity.md
+│   ├── module-1-welcome-to-the-world-of-cybersecurity.md
+│   └── module-2-evolution-of-cybersecurity.md
 ├── 02-play-it-safe-manage-security-risks/
 ├── 03-connect-and-protect-networks-and-network-security/
 ├── 04-tools-of-the-trade-linux-and-sql/
@@ -25,16 +22,16 @@ gcs-cert-notes/
 
 ## Courses
 
-| # | Course |
-|---|--------|
-| 01 | Foundations of Cybersecurity |
-| 02 | Play It Safe: Manage Security Risks |
-| 03 | Connect and Protect: Networks and Network Security |
-| 04 | Tools of the Trade: Linux and SQL |
-| 05 | Assets, Threats, and Vulnerabilities |
-| 06 | Sound the Alarm: Detection and Response |
-| 07 | Automate Cybersecurity Tasks with Python |
-| 08 | Put It to Work: Prepare for Cybersecurity Jobs |
-| 09 | Capstone / Final Project |
+| # | Course | Status |
+|---|--------|--------|
+| 01 | Foundations of Cybersecurity | 🟡 In Progress |
+| 02 | Play It Safe: Manage Security Risks | ⬜ Not Started |
+| 03 | Connect and Protect: Networks and Network Security | ⬜ Not Started |
+| 04 | Tools of the Trade: Linux and SQL | ⬜ Not Started |
+| 05 | Assets, Threats, and Vulnerabilities | ⬜ Not Started |
+| 06 | Sound the Alarm: Detection and Response | ⬜ Not Started |
+| 07 | Automate Cybersecurity Tasks with Python | ⬜ Not Started |
+| 08 | Put It to Work: Prepare for Cybersecurity Jobs | ⬜ Not Started |
+| 09 | Capstone / Final Project | ⬜ Not Started |
 
 Each course folder has its own `README.md` listing that course's modules.
