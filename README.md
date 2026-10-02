@@ -10,7 +10,7 @@ gcs-cert-notes/
 ├── 01-foundations-of-cybersecurity/
 │   ├── module-1-welcome-to-the-world-of-cybersecurity.md
 │   └── module-2-evolution-of-cybersecurity.md
-│   └──
+│   └── module-3-protect-against-threats.md
 ├── 02-play-it-safe-manage-security-risks/
 ├── 03-connect-and-protect-networks-and-network-security/
 ├── 04-tools-of-the-trade-linux-and-sql/
