@@ -9,8 +9,9 @@ organized course-wise and module-wise as I progress.
 gcs-cert-notes/
 ├── 01-foundations-of-cybersecurity/
 │   ├── module-1-welcome-to-the-world-of-cybersecurity.md
-│   └── module-2-evolution-of-cybersecurity.md
-│   └── module-3-protect-against-threats.md
+│   ├── module-2-evolution-of-cybersecurity.md
+│   ├── module-3-protect-against-threats.md
+│   └── module-4-cybersecurity-tools.md
 ├── 02-play-it-safe-manage-security-risks/
 ├── 03-connect-and-protect-networks-and-network-security/
 ├── 04-tools-of-the-trade-linux-and-sql/
@@ -25,8 +26,8 @@ gcs-cert-notes/
 
 | # | Course | Status |
 |---|--------|--------|
-| 01 | Foundations of Cybersecurity | 🟡 In Progress |
-| 02 | Play It Safe: Manage Security Risks | ⬜ Not Started |
+| 01 | Foundations of Cybersecurity | ✅ Done |
+| 02 | Play It Safe: Manage Security Risks | 🟡 In Progress |
 | 03 | Connect and Protect: Networks and Network Security | ⬜ Not Started |
 | 04 | Tools of the Trade: Linux and SQL | ⬜ Not Started |
 | 05 | Assets, Threats, and Vulnerabilities | ⬜ Not Started |
