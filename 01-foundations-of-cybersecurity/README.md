@@ -9,4 +9,4 @@ Notes for each module of this course, one file per module.
 | [Module 1: Welcome to the World of Cybersecurity](./module-1-welcome-to-the-world-of-cybersecurity.md) | ✅ Done |
 | [Module 2: Evolution of Cybersecurity](./module-2-evolution-of-cybersecurity.md) | ✅ Done |
 | [Module 3: Protect Against Threats, Risks and Vulnerabilities](./module-3-protect-against-threats.md) | ✅ Done |
-| Module 4 | 🟡 In Progress |
+| [Module 4: Cybersecurity Tools and Computing Basics](./module-4-cybersecurity-tools.md) | ✅ Done |
